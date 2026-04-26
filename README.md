@@ -23,37 +23,7 @@ The user controls one of the top seven 2026 NFL Draft teams. The remaining six t
 - OpenAI API
 - Server-side API route for secure LLM calls
 
-## Setup
 
-Install dependencies:
-
-```bash
-npm install
-```
-
-Create an environment file:
-
-```bash
-cp .env.example .env.local
-```
-
-Add your API key:
-
-```env
-OPENAI_API_KEY=your_openai_api_key_here
-```
-
-Run the app:
-
-```bash
-npm run dev
-```
-
-Open:
-
-```txt
-http://localhost:3000
-```
 
 The app also works without an API key because it includes deterministic fallback AI logic.
 
@@ -120,5 +90,5 @@ src/types/draft.ts            Shared TypeScript types
 
 ## Loom Walkthrough
 
-Loom link: `ADD_LOOM_LINK_HERE`
+Loom link: `soon`
 
