@@ -1,6 +1,6 @@
 # Loom Walkthrough Script
 
-Hi, I am [Your Name], and this is my NFL Mock Draft Simulator for the Full Stack AI Engineer assignment.
+Hi, I am LUCKY, and this is my NFL Mock Draft Simulator for the Full Stack AI Engineer assignment.
 
 The assignment asked for a single-page simulator where the user controls one team and AI controls the remaining teams. I built this using Next.js, TypeScript, Tailwind, and a server-side API route for the LLM call.
 
