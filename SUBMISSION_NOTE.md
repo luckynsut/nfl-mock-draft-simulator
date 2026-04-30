@@ -1,17 +1,6 @@
 # Assignment Submission Note
 
-Name: [Your Name]
-
-Roll No: [Your Roll Number]
-
-College Email: [Your College Email]
-
-Role Applied For: Full Stack AI Engineer
-
-GitHub Repository: ADD_GITHUB_REPO_LINK_HERE
-
-Loom Walkthrough: ADD_LOOM_LINK_HERE
-
+Name:
 ## Project Summary
 
 I built a single-page AI-powered NFL Mock Draft Simulator using Next.js, TypeScript, Tailwind CSS, and a server-side LLM API route.
